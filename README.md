@@ -1,6 +1,6 @@
 # Real-Time Expense Splitter
 
-A small, fast web app where a group can add shared expenses and immediately see real-time balances and an auto-calculated set of payments that minimizes transfers. Updates are synced live via WebSockets.
+A small, fast web app where a group can add shared expenses and immediately see real-time balances and an auto-calculated set of payments that minimizes transfers. Updates are synced live via WebSockets. 
 
 ## Tech Stack
 
